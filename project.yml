@@ -1,0 +1,7 @@
+packages:
+  - name: sample
+    actions:
+      - name: spark-19
+        limits:
+          timeout: 5000
+          memory: 256
